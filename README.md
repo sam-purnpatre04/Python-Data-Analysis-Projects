@@ -1,7 +1,7 @@
 
 # Python Data Analysis Projects
 
-This repository contains beginner-friendly data analysis projects completed using Python.
+This repository contains collection of Python data analysis projects using Pandas, NumPy, and Matplotlib with EDA and data visualization.
 
 ## Technologies Used
 
