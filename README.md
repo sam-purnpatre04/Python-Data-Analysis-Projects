@@ -4,7 +4,7 @@ Welcome to my **Python Data Analysis Projects** repository.
 
 This repository contains a collection of data analysis projects developed using **Python, Pandas, NumPy, and Matplotlib**. Each project focuses on working with datasets, cleaning and transforming data, performing **Exploratory Data Analysis (EDA)**, and extracting meaningful insights through statistical analysis and data visualization.
 
-The projects cover different domains, including **weather, movies, and banking**, demonstrating the application of Python data analysis techniques to real-world business and analytical problems.
+The projects cover different domains, including **weather, movies, banking, and supply chain**, demonstrating the application of Python data analysis techniques to real-world business and analytical problems.
 
 ---
 
@@ -109,6 +109,60 @@ The analysis focuses on identifying patterns that can help understand **customer
 
 ---
 
+### 🚚 4. Supply Chain & Delivery Performance Analysis
+
+This project analyzes **supply chain, order, delivery, product, supplier, and customer data** to evaluate delivery performance and identify factors affecting operational efficiency.
+
+The analysis focuses on understanding **revenue drivers, delivery delays, return rates, customer satisfaction, regional bottlenecks, and supplier performance**.
+
+#### 🔍 Key Analysis
+
+* Data cleaning and preprocessing
+* Order and revenue analysis
+* Product category analysis
+* Delivery performance analysis
+* On-time, early, and delayed delivery analysis
+* Delay severity analysis
+* Return rate analysis
+* Customer satisfaction analysis
+* Regional and hub performance analysis
+* Supplier performance analysis
+* Identification of delivery bottlenecks
+
+#### 📊 Key Insights
+
+* Analyzed revenue and product mix to identify major revenue drivers
+* Evaluated delivery performance across different orders and regions
+* Identified patterns in **on-time, early, and delayed deliveries**
+* Analyzed the relationship between delivery delays and **product returns**
+* Studied the impact of severe delays on **customer satisfaction and ratings**
+* Identified regional and supplier-level bottlenecks
+* Compared operational performance across major hubs including **Mumbai, Delhi, Bangalore, Kolkata, and Hyderabad**
+
+#### 📈 Key Metrics
+
+* **Total Revenue:** ~74.17 Million
+* **Total Orders:** 3,000
+* **On-Time Delivery Rate:** ~62.60%
+* **Early Deliveries:** ~5%
+* **Delayed Deliveries:** ~35%
+* **Delay Severity Index:** ~87.63%
+
+#### 💡 Key Skills
+
+* Data cleaning with Pandas
+* NumPy-based analysis
+* Data transformation
+* GroupBy and aggregation
+* Statistical analysis
+* Delivery performance analysis
+* Correlation and pattern analysis
+* Exploratory Data Analysis
+* Business-oriented data interpretation
+* Data visualization with Matplotlib
+
+---
+
 ## 🛠️ Technologies Used
 
 | Technology      | Purpose                                   |
@@ -130,6 +184,7 @@ The analysis focuses on identifying patterns that can help understand **customer
 * Data type conversion
 * Data validation
 * Data preprocessing
+* Handling inconsistent data
 
 ### Data Manipulation
 
@@ -138,6 +193,7 @@ The analysis focuses on identifying patterns that can help understand **customer
 * Selecting rows and columns
 * Creating calculated columns
 * Data transformation
+* Grouping and aggregation
 
 ### Data Analysis
 
@@ -147,6 +203,8 @@ The analysis focuses on identifying patterns that can help understand **customer
 * Trend analysis
 * Comparative analysis
 * Pattern identification
+* Correlation analysis
+* Business performance analysis
 
 ### Data Visualization
 
@@ -178,16 +236,20 @@ Through these projects, I have developed practical experience in:
 * Descriptive Statistics
 * Trend Analysis
 * Pattern Identification
+* Correlation Analysis
 * Data Visualization
 * Business-oriented Data Interpretation
+* Operational Performance Analysis
 
 ---
 
 ## 🎯 Purpose of the Repository
 
-The purpose of this repository is to demonstrate my ability to use Python to **work with datasets, identify patterns, perform analytical calculations, and communicate findings through visualizations**.
+The purpose of this repository is to demonstrate my ability to use Python to **work with datasets, clean and transform data, identify patterns, perform analytical calculations, and communicate findings through visualizations**.
 
-These projects also serve as practical examples of my learning and application of Python-based data analysis techniques while preparing for **Data Analyst roles**.
+The projects represent practical applications of Python-based data analysis across different domains such as **weather, entertainment, banking, and supply chain operations**.
+
+These projects also serve as practical examples of my learning and application of data analysis techniques while preparing for **Data Analyst roles**.
 
 ---
 
@@ -205,6 +267,7 @@ Each project generally follows the following analytical workflow:
 8. **Create Visualizations**
 9. **Identify Trends and Patterns**
 10. **Extract Meaningful Insights**
+11. **Communicate Business Findings**
 
 ---
 
