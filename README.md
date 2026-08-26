@@ -2,7 +2,7 @@
 
 Welcome to my **Python Data Analysis Projects** repository.
 
-This repository contains a collection of data analysis projects developed using **Python, Pandas, NumPy, and Matplotlib**. Each project focuses on working with datasets, cleaning and transforming data, performing **Exploratory Data Analysis (EDA)**, and extracting meaningful insights through statistical analysis and data visualization.
+This repository contains a collection of data analysis projects developed using **Python, Pandas, NumPy, and Matplotlib**. Each project focuses on working with datasets, cleaning and transforming data, performing **Exploratory Data Analysis (EDA)** and extracting meaningful insights through statistical analysis and data visualization.
 
 The projects cover different domains, including **weather, movies, banking, and supply chain**, demonstrating the application of Python data analysis techniques to real-world business and analytical problems.
 
