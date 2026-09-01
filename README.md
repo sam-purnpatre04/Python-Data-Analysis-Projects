@@ -269,12 +269,4 @@ Each project generally follows the following analytical workflow:
 10. **Extract Meaningful Insights**
 11. **Communicate Business Findings**
 
----
-
-## 👩‍💻 Author
-
-**Samruddhi Purnpatre**
-
-Aspiring Data Analyst | Python | SQL | Power BI | Excel
-
-🔗 GitHub: **sam-purnpatre04**
+--
