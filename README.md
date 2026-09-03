@@ -28,6 +28,7 @@ This project analyzes historical weather data to identify **trends, seasonal pat
 * Line Plot
 * Bar Plot
 * Histogram
+* Scatter Plot
 
 #### 💡 Key Skills
 
